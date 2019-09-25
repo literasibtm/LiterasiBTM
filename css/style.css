@@ -1,0 +1,400 @@
+body {
+	background-image: url("../images/bg.jpeg");
+	background-size: 100%;
+	
+}
+a {
+	color:#fff;
+}
+
+.home {
+	position: absolute;
+	top: 38px;
+	left: 28px;
+	color: darkgrey;
+	font-size: 35px;
+}
+
+.galeri {
+	position: absolute;
+	top:40px;
+	left: 80%;
+	color:darkgrey;
+	font-size: 100%;
+	
+	
+}
+
+.profil {
+	position: absolute;
+	top: 40px;
+	right: 10%;
+	color : darkgrey;
+	font-size:  100%;
+	
+}c
+
+
+
+
+.welcome{
+	padding-top: 10%;
+	text-align:center;
+	font-size: 72px;
+}
+
+#FOTO1 {
+	position: absolute;
+	top: 12%;
+	left: 10%;
+	overflow: hidden;
+	
+}
+
+#FOTO2{
+	position: absolute;
+	top: 40%;
+	left: 10%;
+	overflow: hidden;
+	
+	
+}
+
+#FOTO3{ 
+	position: absolute;
+	top: 65%;
+	left: 10%;
+	overflow: hidden;
+	
+}
+
+
+#FOTO4{
+	position: absolute;
+	top: 65%;
+	right:10%;
+	overflow: hidden;
+	
+	
+}
+
+#FOTO5{
+	position: absolute;
+	top: 40%;
+	right:  10%;
+	overflow: hidden;
+	
+	
+	
+}
+
+#FOTO7{
+	position: absolute;
+	top:  12%;
+	right: 10%;
+	overflow: hidden;
+	
+	
+	
+}
+
+.gambar{
+	position: absolute;
+	top:  12%;
+	right: 9%;
+	overflow: hidden;
+	
+
+}
+	
+	
+	#username {
+		position: absolute;
+		width: 265.741px;
+		height: 70.181px;
+		left: 300px;
+		top: 200px;
+		overflow: visible;
+	}
+	#kotak1 {
+		opacity: 0.3;
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	}
+	.kotak1 {
+		position: absolute;
+		overflow: visible;
+		width: 200px;
+		height: 40px;
+		left: 0px;
+		top: 0px;
+	}
+#ifanfan{
+	position: absolute;
+		left: 47px;
+		top: 9px;
+		overflow: visible;
+		width: 100px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 12px;
+		color: rgba(255,255,255,1);
+}
+	
+	#icon_profile {
+		position: absolute;
+		left: 15px;
+		top: 10px;
+		overflow: visible;
+		width: 43px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Ikono Mini L 2;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 31px;
+		color: rgba(255,255,255,1);
+	}
+	#email {
+		position: absolute;
+		width: 280px;
+		height: 40px;
+		left: 300px;
+		top: 250px;
+		overflow: visible;
+	}
+	#kotak2 {
+		opacity: 0.3;
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	}
+	.kotak2 {
+		position: absolute;
+		overflow: visible;
+		width: auto;
+		height: auto;
+		left: 0px;
+		top: 0px;
+	}
+#fangmail{
+	
+position: absolute;
+		left: 52px;
+		top: 9px;
+		overflow: visible;
+		width: 150px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 12px;
+		color: rgba(255,255,255,1);
+}
+		
+	
+	#icon_mail {
+	position: absolute;
+	left: 17px;
+	top: 3px;
+	overflow: visible;
+	width: 37px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Ikono Mini L 2;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+	}
+
+	#kontak {
+		position: absolute;
+		width: 280px;
+		height: 40px;
+		left: 300px;
+		top: 300px;
+		overflow: visible;
+	}
+	#kotak3 {
+		opacity: 0.3;
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	}
+	.kotak3 {
+		position: absolute;
+		overflow: visible;
+		width: auto;
+		height: auto;
+		left: 0px;
+		top: 0px;
+	}
+	#nomor {
+		position: absolute;
+		left: 32px;
+		top: 9px;
+		overflow: visible;
+		width: 150px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 12px;
+		color: rgba(255,255,255,1);
+	}
+	#icon_kontak {
+		position: absolute;
+		left: 17px;
+		top: 2px;
+		overflow: visible;
+		width: 35px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Ikono Mini L 2;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 31px;
+		color: rgba(255,255,255,1);
+	} 
+.katapengantar{
+	position: absolute;
+	text-align: center;
+	font-size: 35px;
+	top:45%;
+	
+}
+
+.Alamat{
+	position: absolute;
+	left: 5%;
+	top: 40%;
+	font-size: 40px;
+	color: whitesmoke;
+}
+
+.struktur{
+	
+	position: absolute;
+	right : 23%;
+	top: 40px;
+	color: whitesmoke;
+	font-size: 100%;
+}
+
+#struktur1{
+	position: absolute;
+	top:45%;
+	left:15%;
+	right:15%;
+	
+	
+}
+
+.modul{
+	position: absolute;
+	right : 30%;
+	top: 40px;
+	color: whitesmoke;
+	font-size: 100%;
+	
+}
+
+#modul1{
+	position: absolute;
+	top: 30%;
+	right: 50%;
+	color: whitesmoke;
+	font-size: 150%;
+	
+	
+}
+
+#modul2{
+	position: absolute;
+	top: 35%;
+	right: 50%;
+	color: whitesmoke;
+	font-size: 150%;
+
+}
+
+#modul3{
+	position: absolute;
+	top: 40%;
+	right: 50%;
+	color: whitesmoke;
+	font-size: 150%;
+
+}
+.analisis{
+	position: absolute;
+	right : 35%;
+	top: 40px;
+	color: whitesmoke;
+	font-size: 100%;
+}
+
+#tabel1{
+	position: absolute;
+	top:20%;
+	left: 20%;
+	right : 50%;
+}
+
+.storyboard{
+	position: absolute;
+	right : 42%;
+	top: 40px;
+	color: whitesmoke;
+	font-size: 100%;
+	
+}
+
+.footer {
+	position: absolute;
+	top:100%;
+	width:100%;
+	height:200px;
+	text-align: center;
+}
+
+
+#storyboard1{
+	position: absolute;
+	top: 15%;
+	left: 30%;
+	right : 50%;	
+}
+
+#gif1{
+	position: absolute;
+	top : 2%;
+	text-align: right;
+}
+
+
+.Typografi{
+	position: absolute;
+	left : 47%;
+	top: 40px;
+	color: whitesmoke;
+	font-size: 100%;
+	
+	
+	
+
+}
+
+#content1{
+	position: absolute;
+	left: 12%;
+	right: 12%;
+	top: 20%;
+	color: black;
+	background-color: whitesmoke;
+	font-style:oblique;
+	
+}
+
+	
